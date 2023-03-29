@@ -21,11 +21,13 @@ using namespace std;
 		- 클래스
 			- 접근 지정자 가짐
 				- public 
-				- private
+				- private -> default!
 				- protected 
 			-  데이터(멤버변수)와 기능(멤버함수)을 가짐 
 			
 		-  구조체
+			- 접근 지정자 기능 사용 가능 
+				- default가 public !
 			- 주로 데이터(멤버 변수)만 넣음 
 			
 	cf. Java
