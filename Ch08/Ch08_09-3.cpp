@@ -5,7 +5,7 @@ using namespace std;
 /* 
 	- const 의 유무도 오버로딩의 고려 대상이 됨 
 		- const로 선언한 객체는 const 함수만 호출 가능
-		- const 없이 선언한 갹체는 const 없는 함수 호출 
+		- const 없이 선언한 객체는 const 없는 함수 호출 
 	
 	- const가 앞에 붙은 함수
 		- 단순히 리턴을 변경할 수 없는 상수로 하겠다는 의미
