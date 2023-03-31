@@ -7,7 +7,7 @@
 | 11| [상속](https://github.com/HyeinYeo/Basic_Cpp/tree/main/Ch11#readme) | Ch08
 | 12| [가상 함수와 추상클래스](https://github.com/HyeinYeo/Basic_Cpp/tree/main/Ch12#readme) | Ch09
 | 13| 템플릿(제네릭 함수)|Ch10
-|14|예외 처리|Ch13
+|14|[예외 처리](https://github.com/HyeinYeo/Basic_Cpp/tree/main/Ch14#readme)|Ch13
 ---
 ### :page_with_curl: reference
 - 홍정모의 따라하며 배우는 C++(인프런)
